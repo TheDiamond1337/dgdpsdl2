@@ -9,35 +9,6 @@
         ]
     },
     {
-        "role": "admin",
-        "members": [
-            {
-                "name": "jacob",
-                "link": "https://youtube.com/@smjacob."
-            },
-            {
-                "name": "Kuzzi",
-                "link": "https://www.youtube.com/channel/UCtLuHWMWDEulHAYA5GJyGHA"
-            },
-            {
-                "name": "Bobbyp02",
-                "link": "https://www.youtube.com/channel/UCZQWL17sRXpZ5jYTW_HEZng"
-            },
-            {
-                "name": "Duckiee",
-                "link": "https://www.youtube.com/@DuckieeGD"
-            },
-            {
-                "name": "Ysta",
-                "link": "https://www.youtube.com/@YstaGD"
-            },
-            {
-                "name": "veshel",
-                "link": "https://www.youtube.com/channel/UCrxW0-i0W4k26ps-IdqRQUw"
-            }
-        ]
-    },
-    {
         "role": "trial",
         "members": [
             {
