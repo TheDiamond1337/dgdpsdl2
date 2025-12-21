@@ -7,62 +7,7 @@
                 "link": "https://www.youtube.com/@997diamond"
             }
         ]
-    },
-
-    {
-        "role": "helper",
-        "members": [
-            
-            {
-                "name": "Aphelix",
-                "link": "https://www.youtube.com/channel/UCqVxmaKv-tIa5XmLO4zJStA"
-            },
-            {
-                "name": "exofr",
-                "link": "https://www.youtube.com/@ex0fr/featured"
-            },
-            {
-                "name": "IBeatRetray",
-                "link": "https://www.youtube.com/channel/UCyX7W-K8_iKRvBpAO0o6epg"
-            },
-            {
-                "name": "wadur",
-                "link": "https://www.youtube.com/channel/UC1NqMDYIu1SYUKyMrMbadJA"
-            },
-            {
-                "name": "WinDoge",
-                "link": "https://www.youtube.com/@windogee"
-            },
-            {
-                "name": "Chenii",
-                "link": ""
-            },
-            {
-                "name": "extatica",
-                "link": ""
-            },
-            {
-                "name": "gigile",
-                "link": "https://www.youtube.com/channel/UCnU04Gvq50VklyAsug5P3KA"
-            },
-            {
-                "name": "JaydenvdH",
-                "link": "https://www.youtube.com/channel/UCJgdy-pEUeVO5C4sihsjtOA"
-            },
-            {
-                "name": "Laserduck42",
-                "link": ""
-            },
-            {
-                "name": "JayG",
-                "link": ""
-            },
-            {
-                "name": "Shyne",
-                "link": ""
-            }
-        ] 
-    },    
+    },  
     {       "role": "dev",
             "members": [
                 {
