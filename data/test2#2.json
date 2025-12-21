@@ -1,0 +1,19 @@
+{
+	"id": 1337,
+	"name": "test2",
+	"tags": [
+
+	],
+	"author": "test2",
+	"creators": [],
+	"verifier": "test2",
+	"verification": "test2video",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "test2",
+			"link": "test2video",
+			"percent": 100,
+			"hz": 120
+		},
