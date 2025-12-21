@@ -8,51 +8,7 @@
             }
         ]
     },
-    {
-        "role": "trial",
-        "members": [
-            {
-                "name": "faulheitsmensch",
-                "link": "https://www.youtube.com/@faulheitsmensch6537"
-            },
-            {
-                "name": "Tylor",
-                "link": "https://www.youtube.com/@tylorGMD"
-            },
-            {
-                "name": "MobileBot",
-                "link": "https://www.youtube.com/channel/UCeXijKIQqP5PZFEOZ8XCeKw"
-            },
-            {
-                "name": "Padahk",
-                "link": "https://www.youtube.com/channel/UCab6v0QABvh4ca5EJrlgH9A"
-            },
-            {
-                "name": "Chubby",
-                "link": "https://www.youtube.com/@VTB_GD/featured"
-            },
-            {
-                "name": "IvanCrafter026",
-                "link": "https://www.youtube.com/channel/UCnRHi7-GOiXeVtvHgp1Xcxw"
-            },
-            {
-                "name": "YeahSlayed",
-                "link": "https://www.youtube.com/channel/UC0DBobv5FtihQutqHZSdLsw"
-            },
-            {
-                "name": "[AFP] SlightliFizzi",
-                "link": "https://www.youtube.com/channel/UCqsQRQ8Hv9Bwpi1GZ9nJPIA"
-            },
-            {
-                "name": "Pentu",
-                "link": "https://www.youtube.com/channel/UCd9J3-xylMKBQAOikAEd9Bg"
-            },
-            {
-                "name": "FSyn",
-                "link": "https://www.youtube.com/channel/UCNTUzSdBxqnhT39LsscteRg"
-            }
-        ]
-    },
+
     {
         "role": "helper",
         "members": [
