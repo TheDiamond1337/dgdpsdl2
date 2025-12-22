@@ -118,7 +118,7 @@ export default {
                     </template>
                      <h3>> How to Submit Records</h3>
                     <p>
-                        Join our discord server, and  use /record submit
+                        Join our discord server, and go to channel #list-submissions
                     </p>
                     <h3>> Submission Requirements</h3>
                     <p>
@@ -144,19 +144,13 @@ export default {
                         - End stats (The whole box must appear for at least one frame)
                     </p>
                     <p>
-                        - FPS/TPS counter is required on 2.1 GDPS up to 360 fps/tps
+                        - FPS/TPS counter is required on DGDPS up to 240 fps/tps
                     </p>
                     <p>
-                        - Using physics bypass on any level in 2.2 is not allowed, and will get your record rejected
-                    </p>
-                    <p>
-                        - Using the 2.1 GDPS is allowed for levels verified in 2.1, up to 360 FPS/TPS
+                        - Using the DGDPS is allowed for levels verified in 2.2, up to 240 FPS/TPS
                     </p>
                     <p>
                         - Raw footage (or a pointercrate record of the level) AND clicks will ALWAYS be required for levels in the top 250.
-                    </p>
-                    <p>
-                        - You always need handcam for every level that is listed as "(Solo)" on the list.
                     </p>
                     <p>
                         - Refer to <a href="https://docs.google.com/spreadsheets/d/10AjUUcTpAzOqdfnbz0wtYskL9TdwT4Onv_Fldt5NXBg/edit?usp=sharing">-This Sheet-</a> for a list of allowed and disallowed hacks
@@ -178,7 +172,7 @@ export default {
                         Was the record submitted with several links?
                     </p>
                     <p>
-                        Note: You will be pinged in #records with the reason why your record was denied. If you are still unsure of why it was denied, or if the record was wrongfully denied, please make a post in #support or DM any list staff on Discord
+                        
                     </p>
                 </div>
             </div>
