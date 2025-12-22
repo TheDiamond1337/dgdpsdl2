@@ -4,7 +4,7 @@
 		"action": "placed",
 		"name": "test2#2",
 		"to_rank": 2,
-		"from_rank": null,
+		"from_rank": 1,
 		"above": "null",
 		"below": "test"
 },
