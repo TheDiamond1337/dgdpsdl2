@@ -1,0 +1,22 @@
+{
+	"id": 67,
+	"name": "test",
+	"tags": [
+
+	],
+	"author": "997diamond",
+	"creators": [],
+	"verifier": "997diamond",
+	"verification": "Test",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Test",
+			"link": "Test",
+			"percent": 100,
+			"hz": 360
+
+		}
+	]
+}
