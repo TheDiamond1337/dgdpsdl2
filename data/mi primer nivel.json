@@ -11,14 +11,8 @@
 	"percentToQualify": 100,
 	"password": "No Copy",
 	"records": [
-		{
-			"user": "test",
-			"link": "test",
-			"percent": 100,
-			"hz": 360
 
-		}
-	]
 
 }
+
 
