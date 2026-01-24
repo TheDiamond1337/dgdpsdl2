@@ -144,10 +144,10 @@ export default {
                         - End stats (The whole box must appear for at least one frame)
                     </p>
                     <p>
-                        - FPS/TPS counter is required on DGDPS up to 240 fps/tps
+                        - FPS/TPS counter is required on DGDPS up to 360 fps/tps
                     </p>
                     <p>
-                        - Using the DGDPS is allowed for levels verified in 2.2, up to 240 FPS/TPS
+                        - Using the DGDPS is allowed for levels verified in 2.2, up to 360 FPS/TPS
                     </p>
                     <p>
                         - Raw footage (or a pointercrate record of the level) AND clicks will ALWAYS be required for levels in the top 250.
