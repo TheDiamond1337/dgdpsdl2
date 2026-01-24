@@ -10,10 +10,19 @@
 	"verification": "https://www.youtube.com/watch?v=MYiGUNNEzF8",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records": []
+	"records": [
+       {
+			"user": "Andromeda",
+			"link": "https://youtu.be/SOT7qXpjKdA",
+			"percent": 100,
+			"hz": 360
+			
+		}
+	]
+}	
 
 
 
-}
+
 
 
