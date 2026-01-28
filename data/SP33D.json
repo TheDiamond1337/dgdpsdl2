@@ -16,10 +16,16 @@
 			"link": "https://youtu.be/SOT7qXpjKdA",
 			"percent": 100,
 			"hz": 360
-			
+		   },
+		{
+			"user": "lotus",
+			"link": "https://www.youtube.com/watch?v=Aig5BYSJmdc",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }	
+
 
 
 
